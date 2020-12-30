@@ -1,0 +1,433 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map2.json",
+    "automapping.whileDrawing": true,
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/olorenz/documents/code/github.com/Konaeae/First-one/map3.json": {
+            "scale": 0.7711328125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 641.2643736386202,
+                "y": 400.0607871941644
+            }
+        },
+        "/home/olorenz/documents/code/github.com/Konaeae/First-one/map3.json#1": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/Konaeae/First-one/map3.json#2": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/Konaeae/First-one/map3.json#3": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/Konaeae/First-one/map3.json#4": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/Konaeae/First-one/map3.json#5": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/Konaeae/First-one/map3.json#Inside_B": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/Konaeae/First-one/map3.json#Inventar": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/Konaeae/First-one/map3.json#arabic1": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/Konaeae/First-one/map3.json#castle": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/Konaeae/First-one/map3.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/Konaeae/First-one/map3.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/boero.json": {
+            "scale": 1.8697,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 140.6642776916083,
+                "y": 163.6626196716051
+            }
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/boero.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/boero.json#office_1": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map.json": {
+            "scale": 1.8697,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 437.5033427822646,
+                "y": 155.90736481788522
+            }
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map.json#office_1": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map.json#rc3-mullana-functionary": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map11.json": {
+            "scale": 5.6514204545454545,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 72.10576584728295,
+                "y": 64.14316593776707
+            }
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map11.json#10_Birthday_party_16x16": {
+            "scaleInDock": 1.5
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map11.json#11_Halloween_16x16": {
+            "scaleInDock": 1.5
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map11.json#12_Kitchen_16x16": {
+            "scaleInDock": 1.5
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map11.json#13_Conference_Hall_16x16": {
+            "scaleInDock": 1.5
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map11.json#14_Basement_16x16": {
+            "scaleInDock": 1.5
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map11.json#15_Christmas_16x16": {
+            "scaleInDock": 1.5
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map11.json#1_Generic_16x16": {
+            "scaleInDock": 1.5
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map11.json#2_LivingRoom_16x16": {
+            "scaleInDock": 1.5
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map11.json#3_Bathroom_16x16": {
+            "scaleInDock": 1.5
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map11.json#4_Bedroom_16x16": {
+            "scaleInDock": 1.5
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map11.json#5_Classroom_and_library_16x16": {
+            "scaleInDock": 1.5
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map11.json#6_Music_and_sport_16x16": {
+            "scaleInDock": 1.5
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map11.json#7_Art_16x16": {
+            "scaleInDock": 1.5
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map11.json#8_Gym_16x16": {
+            "scaleInDock": 1.5
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map11.json#9_Fishing_16x16": {
+            "scaleInDock": 1.5
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map11.json#Colored_ceilings_16x16": {
+            "scaleInDock": 1.5
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map11.json#Floors_only_16x16": {
+            "scaleInDock": 1.5
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map11.json#Office_interiors_16x16": {
+            "scaleInDock": 1.5
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map11.json#Tileset_16x16_1": {
+            "scaleInDock": 1.5
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map11.json#Tilesets_16x16": {
+            "scaleInDock": 1.5
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map12.json": {
+            "scale": 3.10828125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 160.0563012114814,
+                "y": 128.20590157341778
+            }
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map12.json#Colored_ceilings_32x32": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map12.json#Floors_only_32x32": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map12.json#Interiors_32x32": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map12.json#Tilesets_32x32": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map16.json": {
+            "scale": 1.8697,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 323.8487457880944,
+                "y": 191.20714553136867
+            }
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map16.json#Walls": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map16.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map16.json#office_1": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map16.json#rc3-mullana-functionary": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map2.json": {
+            "scale": 1.8697,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 397.65737818901437,
+                "y": 292.827726373215
+            }
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map2.json#001": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map2.json#floors": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map2.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map2.json#office_1": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map2.json#rc3-mullana-functionary": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map2.json#walls": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map2.json#walls1": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map2.json#zlttp": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map3.json": {
+            "scale": 0.581404702970297,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 303.5751157469001,
+                "y": 191.77691448033636
+            }
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map3.json#1_Generic_32x32": {
+            "scaleInDock": 0.5
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map3.json#2_LivingRoom_32x32": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map3.json#Office_interiors_32x32": {
+            "scaleInDock": 0.5
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map3.json#Office_interiors_shadowless_32x32": {
+            "scaleInDock": 0.5
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map3.json#Office_walls_floors_32x32": {
+            "scaleInDock": 0.5
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map3.json#floors": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map3.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map4.json": {
+            "scale": 0.7943655303030303,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 496.6227573463671,
+                "y": 512.9880193121536
+            }
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map4.json#1_Generic_32x32": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map9.json#Tilesets_16x16": {
+            "scaleInEditor": 1
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/untitled.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -7.5,
+                "y": 8.5
+            }
+        },
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/untitled.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/workadventure-chemnitz/horst-menzel-strasse/horst-menzel-strasse.json": {
+            "scale": 0.6705502717391304,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 346.73015551390506,
+                "y": 492.8787802036371
+            }
+        },
+        "/home/olorenz/documents/code/github.com/workadventure-chemnitz/horst-menzel-strasse/horst-menzel-strasse.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/workadventure-chemnitz/horst-menzel-strasse/horst-menzel-strasse.json#office_1": {
+            "scaleInDock": 1
+        },
+        "/home/olorenz/documents/code/github.com/workadventure-chemnitz/horst-menzel-strasse/map.json#floortileset": {
+            "scaleInEditor": 1
+        },
+        "map13.json": {
+            "scale": 3.10828125,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 180.64645855325995,
+                "y": 196.73251897652437
+            }
+        },
+        "map13.json#Colored_ceilings_32x32": {
+            "scaleInDock": 1
+        },
+        "map13.json#Floors_only_32x32": {
+            "scaleInDock": 1
+        },
+        "map13.json#Interiors_32x32": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map13.json#Office_interiors_32x32": {
+            "scaleInDock": 1
+        },
+        "map13.json#Tilesets_32x32": {
+            "scaleInDock": 1
+        },
+        "map14.json": {
+            "scale": 3.10828125,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 132.06655607500124,
+                "y": 196.08907655959382
+            }
+        },
+        "map14.json#Colored_ceilings_32x32": {
+            "scaleInDock": 1
+        },
+        "map14.json#Floors_only_32x32": {
+            "scaleInDock": 1
+        },
+        "map14.json#Interiors_32x32": {
+            "scaleInDock": 1
+        },
+        "map14.json#Office_interiors_32x32": {
+            "scaleInDock": 1
+        },
+        "map14.json#Tilesets_32x32": {
+            "scaleInDock": 1
+        },
+        "wohnung/buero.json": {
+            "scale": 2.804119318181818,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 128.91748138392182,
+                "y": 197.0315586849704
+            }
+        },
+        "wohnung/buero.json#1_Generic_32x32": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "wohnung/buero.json#2_LivingRoom_32x32": {
+            "scaleInDock": 1
+        },
+        "wohnung/buero.json#5_Classroom_and_library_32x32": {
+            "scaleInDock": 1
+        },
+        "wohnung/buero.json#Colored_ceilings_32x32": {
+            "scaleInDock": 1
+        },
+        "wohnung/buero.json#Floors_only_32x32": {
+            "scaleInDock": 1
+        },
+        "wohnung/buero.json#Office_interiors_32x32": {
+            "scaleInDock": 1
+        },
+        "wohnung/buero.json#Tilesets_32x32": {
+            "scaleInDock": 1
+        },
+        "wohnung/flur.json": {
+            "scale": 3.10828125,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 431.26727994772034,
+                "y": 180.9681797617252
+            }
+        },
+        "wohnung/flur.json#1_Generic_32x32": {
+            "scaleInDock": 1
+        },
+        "wohnung/flur.json#2_LivingRoom_32x32": {
+            "scaleInDock": 1
+        },
+        "wohnung/flur.json#Colored_ceilings_32x32": {
+            "scaleInDock": 1
+        },
+        "wohnung/flur.json#Floors_only_32x32": {
+            "scaleInDock": 1
+        },
+        "wohnung/flur.json#Office_interiors_32x32": {
+            "scaleInDock": 1
+        },
+        "wohnung/flur.json#Tilesets_32x32": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "map.fixedSize": true,
+    "map.height": 32,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 32,
+    "map.tileWidth": 32,
+    "map.width": 32,
+    "openFiles": [
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map16.json",
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/untitled.json",
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map2.json"
+    ],
+    "project": "workadventure-map.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "/home/olorenz/documents/code/github.com/workadventure-chemnitz/horst-menzel-strasse/horst-menzel-strasse.json",
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map2.json",
+        "/home/olorenz/documents/code/github.com/Konaeae/First-one/map3.json",
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map16.json",
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/untitled.json",
+        "/home/olorenz/documents/code/github.com/happy-place-gaming/map/boero.json"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    }
+}
