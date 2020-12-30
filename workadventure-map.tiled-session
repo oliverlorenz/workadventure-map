@@ -379,8 +379,8 @@
             "scale": 3.10828125,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 431.26727994772034,
-                "y": 180.9681797617252
+                "x": 287.77962097220126,
+                "y": 144.29196199668226
             }
         },
         "wohnung/flur.json#1_Generic_32x32": {
@@ -418,6 +418,8 @@
     "project": "workadventure-map.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "wohnung/buero.json",
+        "wohnung/flur.json",
         "/home/olorenz/documents/code/github.com/workadventure-chemnitz/horst-menzel-strasse/horst-menzel-strasse.json",
         "/home/olorenz/documents/code/github.com/happy-place-gaming/map/map2.json",
         "/home/olorenz/documents/code/github.com/Konaeae/First-one/map3.json",

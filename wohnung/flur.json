@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/storage.googleapis.com\/workadventure-map\/wohnung\/buero.json#start-flur"
+                 "value":"https:\/\/oliverlorenz.github.io\/workadventure-map\/wohnung\/buero.json#start-flur"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -109,7 +109,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/storage.googleapis.com\/workadventure-map\/wohnung\/bad-2.json#exit-flur"
+                 "value":"https:\/\/oliverlorenz.github.io\/workadventure-map\/wohnung\/bad-2.json#exit-flur"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -127,7 +127,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/storage.googleapis.com\/workadventure-map\/wohnung\/wohnzimmer.json#exit-flur"
+                 "value":"https:\/\/oliverlorenz.github.io\/workadventure-map\/wohnung\/wohnzimmer.json#exit-flur"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -145,7 +145,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/storage.googleapis.com\/workadventure-map\/wohnung\/kueche.json#exit-flur"
+                 "value":"https:\/\/oliverlorenz.github.io\/workadventure-map\/wohnung\/kueche.json#exit-flur"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -163,7 +163,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/storage.googleapis.com\/workadventure-map\/wohnung\/bad.json#exit-flur"
+                 "value":"https:\/\/oliverlorenz.github.io\/workadventure-map\/wohnung\/bad.json#exit-flur"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -181,7 +181,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/storage.googleapis.com\/workadventure-map\/wohnung\/schlafzimmer.json#exit-flur"
+                 "value":"https:\/\/oliverlorenz.github.io\/workadventure-map\/wohnung\/schlafzimmer.json#exit-flur"
                 }],
          "type":"tilelayer",
          "visible":true,

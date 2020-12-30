@@ -91,7 +91,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/storage.googleapis.com\/workadventure-map\/wohnung\/flur.json#start-buero"
+                 "value":"https:\/\/oliverlorenz.github.io\/workadventure-map\/wohnung\/flur.json#start-buero"
                 }],
          "type":"tilelayer",
          "visible":false,
