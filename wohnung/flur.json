@@ -3,7 +3,8 @@
     {
      "export":
         {
-         "format":"json"
+         "format":"json",
+         "target":"."
         }
     },
  "height":9,
@@ -32,6 +33,24 @@
          "height":9,
          "id":19,
          "name":"start-buero",
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
+         "type":"tilelayer",
+         "visible":true,
+         "width":19,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 287, 3926, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":9,
+         "id":22,
+         "name":"start-bad-2",
          "opacity":1,
          "properties":[
                 {
@@ -109,7 +128,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/oliverlorenz.github.io\/workadventure-map\/wohnung\/bad-2.json#exit-flur"
+                 "value":"https:\/\/oliverlorenz.github.io\/workadventure-map\/wohnung\/bathroom-small.json#exit-flur"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -284,7 +303,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":22,
+ "nextlayerid":23,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
