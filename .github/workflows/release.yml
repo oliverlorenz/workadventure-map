@@ -1,0 +1,27 @@
+name: Build and Deploy
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: send matrix message
+        uses: s3krit/matrix-message-action@v0.0.3
+        with:
+          room_id: ${{ secrets.MATRIX_ROOM_ID }}
+          access_token: ${{ secrets.MATRIX_ACCESS_TOKEN }}
+          message: "workadventure maps has been updated"
+          server: "matrix.oliverlorenz.com"
+
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          token: ${{ secrets.GH_PAT }}
+          repository: oliverlorenz/com_oliverlorenz
+          event-type: workadventure-tiles-were-changed
+
+      
