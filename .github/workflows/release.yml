@@ -22,6 +22,6 @@ jobs:
         with:
           token: ${{ secrets.GH_PAT }}
           repository: oliverlorenz/com_oliverlorenz
-          event-type: workadventure-tiles-were-changed
+          event-type: workadventure-maps-were-changed
 
       
