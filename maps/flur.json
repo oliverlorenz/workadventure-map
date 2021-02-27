@@ -92,7 +92,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/oliverlorenz.github.io\/workadventure-map\/wohnung\/buero.json#start-flur"
+                 "value":"https:\/\/oliverlorenz.com\/maps\/buero.json#start-flur"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -124,12 +124,7 @@
          "id":14,
          "name":"exit-bad-2",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"https:\/\/oliverlorenz.github.io\/workadventure-map\/wohnung\/bathroom-small.json#exit-flur"
-                }],
+         "properties":[],
          "type":"tilelayer",
          "visible":true,
          "width":19,
@@ -142,12 +137,7 @@
          "id":13,
          "name":"exit-wohnzimmer",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"https:\/\/oliverlorenz.github.io\/workadventure-map\/wohnung\/wohnzimmer.json#exit-flur"
-                }],
+         "properties":[],
          "type":"tilelayer",
          "visible":true,
          "width":19,
@@ -160,12 +150,7 @@
          "id":16,
          "name":"exit-kueche",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"https:\/\/oliverlorenz.github.io\/workadventure-map\/wohnung\/kueche.json#exit-flur"
-                }],
+         "properties":[],
          "type":"tilelayer",
          "visible":true,
          "width":19,
@@ -178,12 +163,7 @@
          "id":17,
          "name":"exit-bad",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"https:\/\/oliverlorenz.github.io\/workadventure-map\/wohnung\/bad.json#exit-flur"
-                }],
+         "properties":[],
          "type":"tilelayer",
          "visible":true,
          "width":19,
@@ -196,12 +176,7 @@
          "id":18,
          "name":"exit-schlafzimmer",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"https:\/\/oliverlorenz.github.io\/workadventure-map\/wohnung\/schlafzimmer.json#exit-flur"
-                }],
+         "properties":[],
          "type":"tilelayer",
          "visible":true,
          "width":19,
