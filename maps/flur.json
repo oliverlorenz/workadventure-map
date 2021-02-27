@@ -92,7 +92,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/oliverlorenz.com\/maps\/buero.json#start-flur"
+                 "value":"buero.json#start-flur"
                 }],
          "type":"tilelayer",
          "visible":true,
